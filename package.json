@@ -1,0 +1,17 @@
+{
+  "name": "project1_todoist",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "todo_list.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shumaila",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.3"
+  }
+}
